@@ -12,14 +12,14 @@ Before using the Covid-19 Tracker Widget, you must download Scriptable from the 
 3) Press and hold the newly added widget to get menu options. Press "Edit Widget".
 4) Under "Script", select the copy of the Covid-19 Tracker script. Under "When Interacting", choose "Run Script". Under "Parameter", type in the 2-digit code for the province you would like to track (e.g. "ON" for Ontario or "NB" for New Brunswick).
 
-![2](https://user-images.githubusercontent.com/69438386/152900572-0714bcf5-ab59-4b05-aaad-23303b07d029.png)
+![tracker setup_resize](https://user-images.githubusercontent.com/69438386/153018309-eb6da5b7-3a7a-4aaf-a285-533d6e33a82a.png)
 
 5) Tap outside the wigdet to save settings.
 
 ## Preview
 The Covid-19 Tracker Widget has two built-in themes (light and dark) that are automatically configured to your device's theme.
 
-![1](https://user-images.githubusercontent.com/69438386/152900925-e89614f7-f95b-4cdf-b701-034b8aa79248.png)
+![tracker main_resize](https://user-images.githubusercontent.com/69438386/153018361-1239cf5e-3c6e-4c01-976e-7017890b6faa.png)
 
 ## Time Zones
 To convey when the data was pulled from the API, the Covid-19 Tracker Widget compares the current date to the date stamp of the most recent data. By default, the current date is measured in UTC, and must be adjusted manually.      
